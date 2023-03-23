@@ -1,0 +1,21 @@
+{
+	"modListVersion": 2,
+	"modList": [{
+		"modid": "${modId}",
+		"name": "${modName}",
+		"description": "A Minecraft Forge mod to periodically unload chunks from the server. Attempts to recreate the functionality of Cauldron's ChunkGC.",
+		"version": "${modVersion}",
+		"mcversion": "${minecraftVersion}",
+		"url": "https://github.com/Pilzinsel64/ChunkPurge",
+		"updateUrl": "",
+		"authorList": ["stevestech, AcE_Android", "Pilzinsel64"],
+		"credits": "bloodmc, for saving everyone's butts with the original ChunkGC",
+		"logoFile": "",
+		"screenshots": [],
+		"parent": "",
+		"requiredMods": [],
+		"dependencies": [],
+		"dependants": [],
+		"useDependencyInformation": true
+	}]
+}
