@@ -9,6 +9,8 @@ Download
 Not required on the client, although may work in single player.
 Download the latest release here: https://github.com/Pilzinsel64/ChunkPurge/releases/latest
 
+**PLEASE NOTE:** I personally don't use this mod anymore on my own server since I [prevent chunk loaded on request](https://github.com/Pilzinsel64/PilzMcSammelsorium#disable-chunk-loading-on-request) using my own [PilzMcSammelsoium mod](https://github.com/Pilzinsel64/PilzMcSammelsorium) wich helps to prevent the main reason why I used this mod: Ghost loaded chunks.
+
 Description
 ===========
 
