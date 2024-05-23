@@ -9,7 +9,7 @@ Download
 Not required on the client, although may work in single player.
 Download the latest release here: https://github.com/Pilzinsel64/ChunkPurge/releases/latest
 
-**PLEASE NOTE:** If you use my other mod [AlternativeChunkloading]([https://github.com/Pilzinsel64/PilzMcSammelsorium#disable-chunk-loading-on-request](https://github.com/LITW-Refined/AlternativeChunkloading)) you may don't need the mod AlternativeChunkloading already prevents what this mods tries to workaround.
+**PLEASE NOTE:** If you use my other mod [AlternativeChunkloading](https://github.com/LITW-Refined/AlternativeChunkloading) you may don't need the mod AlternativeChunkloading already prevents what this mods tries to workaround.
 
 Description
 ===========
